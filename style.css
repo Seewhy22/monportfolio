@@ -57,7 +57,6 @@ section .title{
     font-family: 'Ubuntu', sans-serif;
 }
 section .title::before{
-    content: "Mes experiences";
     position: absolute;
     bottom: 0px;
     left: 50%;
@@ -65,7 +64,6 @@ section .title::before{
     height: 3px;
     background: #111;
     transform: translateX(-50%);
-    display:non
 }
 section .title::after{
     position: absolute;
