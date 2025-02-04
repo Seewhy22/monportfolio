@@ -57,6 +57,7 @@ section .title{
     font-family: 'Ubuntu', sans-serif;
 }
 section .title::before{
+    content: "";
     position: absolute;
     bottom: 0px;
     left: 50%;
