@@ -412,7 +412,7 @@ section .title::after{
     height: 150px;
     width: 150px;
     object-fit: cover;
-    border-radius: 50%;
+    border-radius: 10%;
     border: 5px solid #0E00FF;
     transition: all 0.3s ease;
 }
