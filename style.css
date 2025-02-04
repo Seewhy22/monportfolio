@@ -65,6 +65,7 @@ section .title::before{
     height: 3px;
     background: #111;
     transform: translateX(-50%);
+    display:non
 }
 section .title::after{
     position: absolute;
